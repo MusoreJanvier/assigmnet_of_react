@@ -45,18 +45,18 @@ This project is a Doctor Appointment System built with React, Express.js, and Mo
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/MusoreJanvier/react_assignment.git
+   git clone [https://github.com/MusoreJanvier/react_assignment.git](https://github.com/MusoreJanvier/assigmnet_of_react/tree/develop?authuser=0)
    cd doctor-appointment-system
    ```
 
 2. **Install Dependencies**
    ```bash
    # Install backend dependencies
-   cd backend
+   cd sever
    npm install
 
    # Install frontend dependencies
-   cd ../frontend
+   cd ../client
    npm install
    ```
 
@@ -71,11 +71,11 @@ This project is a Doctor Appointment System built with React, Express.js, and Mo
 4. **Run the Application**
    ```bash
    # Start backend server
-   cd backend
+   cd server
    npm start
 
-   # Start frontend development server
-   cd ../frontend
+   # Start frontend development 
+   cd ../client
    npm start
    ```
 
@@ -84,14 +84,14 @@ This project is a Doctor Appointment System built with React, Express.js, and Mo
 ```
 doctor-appointment-system/
 │
-├── backend/
+├── server/
 │   ├── config/
 │   ├── controllers/
 │   ├── models/
 │   ├── routes/
 │   └── server.js
 │
-├── frontend/
+├── client/
 │   ├── public/
 │   ├── src/
 │   │   ├── components/
@@ -140,14 +140,9 @@ doctor-appointment-system/
 
 ## Repository
 
-[GitHub Repository](https://github.com/MusoreJanvier/assigmnet_of_react/edit/develop)
-
-## License
-
-This project is open-source and available under the MIT License.
+[GitHub Repository](https://github.com/MusoreJanvier/assigmnet_of_react/tree/develop?authuser=0)
 
 ## Contact
 
-Janvier Musore - [Your Email or LinkedIn]
+Janvier Musore - [Email](musonijanvier12@gmail.com)
 
-**Project Link**: [https://github.com/MusoreJanvier/react_assignment.git](https://github.com/MusoreJanvier/react_assignment.git)
