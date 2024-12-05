@@ -140,7 +140,7 @@ doctor-appointment-system/
 
 ## Repository
 
-[GitHub Repository](https://github.com/MusoreJanvier/react_assignment.git)
+[GitHub Repository](https://github.com/MusoreJanvier/assigmnet_of_react/edit/develop)
 
 ## License
 
