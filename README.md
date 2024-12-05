@@ -64,8 +64,7 @@ This project is a Doctor Appointment System built with React, Express.js, and Mo
    - Create a `.env` file in the backend directory
    - Add necessary environment variables:
      ```
-     MONGODB_URI=your_mongodb_connection_string
-     JWT_SECRET=your_jwt_secret
+     MONGO_URI=mongodb+srv://musonijanvier21:Musoni12@doctor.fylx3.mongodb.net/?retryWrites=true&w=majority&appName=doctor
      ```
 
 4. **Run the Application**
@@ -144,5 +143,5 @@ doctor-appointment-system/
 
 ## Contact
 
-Janvier Musore - [Email](musonijanvier12@gmail.com)
+Janvier Musore - Email : musonijanvier12@gmail.com
 
